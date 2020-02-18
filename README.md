@@ -6,4 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+
+#Screenshot
+
 ![home_page](https://github.com/Davies-K/flutter-rentalapp/blob/master/screenshots/home.JPG)
